@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "529a03508c121d9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8ac168d4f788ac5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e53268b30480fecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Spring AOP/Устройство Spring AOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "576aad9ad1040dbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed50c6ec618274a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83ab5458ac4a606c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e21b4e64170483fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72d5ab2a73cc80b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "733db609b8c92aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c4cdfccea6d0f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca3b899a907c8d48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring/Spring AOP/Устройство Spring AOP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ead8aacd3914a868",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring/Spring AOP/Устройство Spring AOP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37a528ad8c7e82eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5429b9dc9b674eb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring/Spring AOP/Устройство Spring AOP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e53268b30480fecd",
+  "lastOpenFiles": [
+    "Spring/Spring Boot/Custom Starter.md",
+    "Spring/Spring AOP/Устройство Spring AOP.md",
+    "JVM JRE JDK/JVM/Устройство JVM.md",
+    "Spring/Spring Framework.md",
+    "Spring/Spring Boot/Преимущества Spring Boot.md",
+    "Spring/Spring Boot/Spring Boot.md",
+    "Spring/Bean Conditional/Устройство Bean Conditional.md",
+    "Spring/Bean LifeCycle Table.canvas",
+    "Spring/Spring Cache/Устройство Spring Cache.md",
+    "Java Core",
+    "ORM",
+    "Spring/Bean Conditional",
+    "Spring/Bean Injection",
+    "Spring/Spring Cache",
+    "Spring/Spring Framwork LifiCycle",
+    "Spring/Spring Boot",
+    "Spring/Spring AOP",
+    "Spring/Bean LifeCycle.md",
+    "JVM JRE JDK/JRE/Устройство JRE.md",
+    "JVM JRE JDK/JVM/ClassLoader.md",
+    "JVM JRE JDK/Без названия.md",
+    "JVM JRE JDK/JVM/Execution Engine.md",
+    "JVM JRE JDK/JVM/Runtime Darta Area.md",
+    "Spring",
+    "JVM JRE JDK/JVM/Garbage Collector.md",
+    "JVM JRE JDK/JDK/Без названия.md",
+    "JVM JRE JDK/JDK",
+    "JVM JRE JDK/cache/Pasted image 20240413210452.png",
+    "JVM JRE JDK/JVM/~$тройство JVM.md",
+    "JVM JRE JDK/Без названия.canvas",
+    "Welcome.md"
+  ]
+}
