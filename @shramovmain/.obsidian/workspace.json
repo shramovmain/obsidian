@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring AOP/Устройство Spring AOP.md",
+                "file": "DBMS/Mongo DB/Устройство MongoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Spring AOP/Устройство Spring AOP.md",
+                "file": "DBMS/Mongo DB/Устройство MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Spring AOP/Устройство Spring AOP.md",
+                "file": "DBMS/Mongo DB/Устройство MongoDB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Spring AOP/Устройство Spring AOP.md"
+                "file": "DBMS/Mongo DB/Устройство MongoDB.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "e53268b30480fecd",
   "lastOpenFiles": [
-    "Spring/Spring Boot/Custom Starter.md",
     "Spring/Spring AOP/Устройство Spring AOP.md",
+    "DBMS/Mongo DB/Устройство MongoDB.md",
+    "DBMS/Mongo DB",
+    "DBMS",
+    "Без названия",
+    "Spring/Bean LifeCycle.md",
+    "Spring/Spring Boot/Custom Starter.md",
     "JVM JRE JDK/JVM/Устройство JVM.md",
     "Spring/Spring Framework.md",
     "Spring/Spring Boot/Преимущества Spring Boot.md",
@@ -164,17 +169,13 @@
     "Spring/Spring Cache",
     "Spring/Spring Framwork LifiCycle",
     "Spring/Spring Boot",
-    "Spring/Spring AOP",
-    "Spring/Bean LifeCycle.md",
     "JVM JRE JDK/JRE/Устройство JRE.md",
     "JVM JRE JDK/JVM/ClassLoader.md",
     "JVM JRE JDK/Без названия.md",
     "JVM JRE JDK/JVM/Execution Engine.md",
     "JVM JRE JDK/JVM/Runtime Darta Area.md",
-    "Spring",
     "JVM JRE JDK/JVM/Garbage Collector.md",
     "JVM JRE JDK/JDK/Без названия.md",
-    "JVM JRE JDK/JDK",
     "JVM JRE JDK/cache/Pasted image 20240413210452.png",
     "JVM JRE JDK/JVM/~$тройство JVM.md",
     "JVM JRE JDK/Без названия.canvas",
