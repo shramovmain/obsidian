@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/Mongo DB/Устройство MongoDB.md",
+                "file": "Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/Mongo DB/Устройство MongoDB.md",
+                "file": "Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/Mongo DB/Устройство MongoDB.md",
+                "file": "Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/Mongo DB/Устройство MongoDB.md"
+                "file": "Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md"
               }
             }
           }
@@ -148,20 +148,31 @@
   },
   "active": "e53268b30480fecd",
   "lastOpenFiles": [
-    "Spring/Spring AOP/Устройство Spring AOP.md",
+    "Concurrency/Способы синхронизации потоков.md",
+    "JVM JRE JDK/cache/Pasted image 20240413210452.png",
+    "JVM JRE JDK/JDK/Устройство JDK.md",
+    "Spring/Bean Conditional/Устройство Bean Conditional.md",
+    "Spring/Spring Cache/Устройство Spring Cache.md",
+    "Spring/Spring Framework.md",
+    "Spring/Spring Bean/Bean LifeCycle Table.canvas",
+    "Spring/Spring Bean/Bean LifeCycle.md",
+    "Spring/Spring Bean/@Scope (Область видимости бинов).md",
+    "Spring/Spring Boot/Custom Starter.md",
+    "Spring/Spring Boot/Преимущества Spring Boot.md",
+    "Spring/Spring Boot/Spring Boot.md",
+    "JVM JRE JDK/JVM/ClassLoader.md",
+    "JVM JRE JDK/JVM/Устройство JVM.md",
+    "Java Core/Optional.md",
+    "DBMS/Уровни изоляции транзакций.md",
+    "DBMS/Виды NoSQL-баз данных.md",
+    "DBMS/Блокировки (Оптимистичная и Пессимистичная).md",
     "DBMS/Mongo DB/Устройство MongoDB.md",
+    "Spring/Spring AOP/Устройство Spring AOP.md",
     "DBMS/Mongo DB",
     "DBMS",
     "Без названия",
     "Spring/Bean LifeCycle.md",
-    "Spring/Spring Boot/Custom Starter.md",
-    "JVM JRE JDK/JVM/Устройство JVM.md",
-    "Spring/Spring Framework.md",
-    "Spring/Spring Boot/Преимущества Spring Boot.md",
-    "Spring/Spring Boot/Spring Boot.md",
-    "Spring/Bean Conditional/Устройство Bean Conditional.md",
     "Spring/Bean LifeCycle Table.canvas",
-    "Spring/Spring Cache/Устройство Spring Cache.md",
     "Java Core",
     "ORM",
     "Spring/Bean Conditional",
@@ -170,13 +181,10 @@
     "Spring/Spring Framwork LifiCycle",
     "Spring/Spring Boot",
     "JVM JRE JDK/JRE/Устройство JRE.md",
-    "JVM JRE JDK/JVM/ClassLoader.md",
     "JVM JRE JDK/Без названия.md",
     "JVM JRE JDK/JVM/Execution Engine.md",
     "JVM JRE JDK/JVM/Runtime Darta Area.md",
     "JVM JRE JDK/JVM/Garbage Collector.md",
-    "JVM JRE JDK/JDK/Без названия.md",
-    "JVM JRE JDK/cache/Pasted image 20240413210452.png",
     "JVM JRE JDK/JVM/~$тройство JVM.md",
     "JVM JRE JDK/Без названия.canvas",
     "Welcome.md"
