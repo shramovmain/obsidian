@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"a74936a50cf60a91","x":-600,"y":-300,"width":930,"height":690,"color":"5","type":"group","label":"IoC контейнер"},
 		{"id":"4241d7dfef549e2f","type":"group","x":-280,"y":-280,"width":290,"height":600,"color":"2","label":"ForEach Bean Definition"},
 		{"id":"28df74bfca8a5d44","type":"text","text":"Bean Factory Post Processor","x":-580,"y":-220,"width":250,"height":60},
 		{"id":"7024b4f5ae465a13","type":"text","text":"Sorted Bean Definition","x":-580,"y":-120,"width":250,"height":60},
@@ -9,11 +10,11 @@
 		{"id":"0c23bed4b852b358","type":"text","text":"Bean Setter called","x":-260,"y":-160,"width":250,"height":60},
 		{"id":"d4744ce5f12e0dc6","type":"text","text":"Beans","x":60,"y":120,"width":250,"height":60},
 		{"id":"8b48712d2a8cf7aa","type":"text","text":"Destruction callbacks\n- @PreDestroy\n- destroy()\n- destroy-method","x":60,"y":220,"width":250,"height":150,"color":"1"},
-		{"id":"cabd6254e4d40fb9","type":"text","text":"Bean Definition","x":-580,"y":-320,"width":250,"height":60},
-		{"id":"fa0905a7c1cdf5a5","type":"text","text":"BPP\nAfter Initialization","x":-260,"y":240,"width":250,"height":60}
+		{"id":"fa0905a7c1cdf5a5","type":"text","text":"BPP\nAfter Initialization","x":-260,"y":240,"width":250,"height":60},
+		{"id":"cabd6254e4d40fb9","type":"text","text":"Bean Definition","x":-880,"y":-220,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"d80b4ff80a4c10a9","fromNode":"cabd6254e4d40fb9","fromSide":"bottom","toNode":"28df74bfca8a5d44","toSide":"top"},
+		{"id":"d80b4ff80a4c10a9","fromNode":"cabd6254e4d40fb9","fromSide":"right","toNode":"28df74bfca8a5d44","toSide":"left"},
 		{"id":"b19c21f9658ea15a","fromNode":"28df74bfca8a5d44","fromSide":"bottom","toNode":"7024b4f5ae465a13","toSide":"top"},
 		{"id":"11455bc583b8e4e0","fromNode":"801017fe0ae7cdb5","fromSide":"bottom","toNode":"0c23bed4b852b358","toSide":"top"},
 		{"id":"1ce3418c1f55ba20","fromNode":"0c23bed4b852b358","fromSide":"bottom","toNode":"afe4e8a349c6bf57","toSide":"top"},
