@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@shramovmain/DBMS/Виды NoSQL-баз данных.md",
+                "file": "@shramovmain/Spring/Spring Boot/Преимущества Spring Boot.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@shramovmain/DBMS/Виды NoSQL-баз данных.md",
+                "file": "@shramovmain/Spring/Spring Boot/Преимущества Spring Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@shramovmain/DBMS/Виды NoSQL-баз данных.md",
+                "file": "@shramovmain/Spring/Spring Boot/Преимущества Spring Boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@shramovmain/DBMS/Виды NoSQL-баз данных.md"
+                "file": "@shramovmain/Spring/Spring Boot/Преимущества Spring Boot.md"
               }
             }
           }
@@ -163,37 +163,37 @@
   },
   "active": "2642806b1ca13593",
   "lastOpenFiles": [
-    "@shramovmain/DBMS/Mongo DB/Устройство MongoDB.md",
+    "@shramovmain/Spring/Bean Conditional/Устройство Bean Conditional.md",
+    "@shramovmain/Spring/Spring Cache/Устройство Spring Cache.md",
+    "@shramovmain/Spring/Spring Bean/Bean LifeCycle Table.canvas",
+    "@shramovmain/DBMS/Уровни изоляции транзакций.md",
+    "@shramovmain/DBMS/ACID.md",
     "@shramovmain/DBMS/Виды NoSQL-баз данных.md",
-    "@shramovmain/DBMS/Mongo DB/Структура хранения Mongo.canvas",
-    "@shramovmain/Spring/@Scope (Область видимости бинов).md",
-    "@shramovmain/Concurrency/Интерфейс Lock.md",
     "@shramovmain/Concurrency/Потокобезопасные коллекции.md",
-    "@shramovmain/Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md",
-    "@shramovmain/Concurrency/Способы создания потока.md",
-    "@shramovmain/Concurrency/Способы синхронизации потоков.md",
+    "@shramovmain/Concurrency/Интерфейс Lock.md",
     "@shramovmain/Concurrency/Класс Thread.md",
     "@shramovmain/Concurrency/Жизненный цикл потока.md",
     "@shramovmain/Concurrency/Отличия процесса от потока.md",
-    "@shramovmain/Spring/Spring Context/Spring Context Life Cycle.md",
-    "@shramovmain/Concurrency",
-    "@shramovmain/Spring/Spring Bean/Bean LifeCycle.md",
-    "@shramovmain/Spring/Spring Bean/Bean LifeCycle Table.canvas",
-    "@shramovmain/Spring/Spring Context/Устройство Spring Context.md",
-    "@shramovmain/Spring/Устройство Bean Factory.md",
+    "@shramovmain/Java Core/Optional.md",
+    "@shramovmain/JVM JRE JDK/JVM/Garbage Collector.md",
+    "@shramovmain/JVM JRE JDK/JVM/Execution Engine.md",
+    "@shramovmain/JVM JRE JDK/JVM/Runtime Darta Area.md",
+    "@shramovmain/JVM JRE JDK/JDK JRE JVM.md",
+    "@shramovmain/JVM JRE JDK/JVM/ClassLoader.md",
+    "@shramovmain/DBMS/Блокировки (Оптимистичная и Пессимистичная).md",
     "@shramovmain/Spring/Spring AOP/Устройство Spring AOP.md",
     "@shramovmain/Spring/Spring Boot/Преимущества Spring Boot.md",
-    "@shramovmain/Spring/Spring Boot/Spring Boot.md",
-    "@shramovmain/Spring/Spring Boot/Custom Starter.md",
-    "@shramovmain/Spring/Spring Framework.md",
+    "@shramovmain/Spring/Spring Bean/Bean LifeCycle.md",
+    "@shramovmain/Spring/Spring Bean/@Scope (Область видимости бинов).md",
+    "@shramovmain/DBMS/Mongo DB/Устройство MongoDB.md",
+    "@shramovmain/DBMS/Mongo DB/Структура хранения Mongo.canvas",
+    "@shramovmain/Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md",
+    "@shramovmain/Concurrency/Способы создания потока.md",
+    "@shramovmain/Concurrency/Способы синхронизации потоков.md",
+    "@shramovmain/Spring/Spring Context/Spring Context Life Cycle.md",
+    "@shramovmain/Concurrency",
     "@shramovmain/Spring/Spring Bean",
     "@shramovmain/Spring/Spring Context",
-    "@shramovmain/Spring/Bean Conditional/Устройство Bean Conditional.md",
-    "@shramovmain/Java Core/Optional.md",
-    "@shramovmain/Java Core",
-    "@shramovmain/JVM JRE JDK/JVM/Garbage Collector.md",
-    "@shramovmain/JVM JRE JDK/JVM/ClassLoader.md",
-    "@shramovmain/JVM JRE JDK/Без названия.md",
-    "@shramovmain/JVM JRE JDK/JVM/Execution Engine.md"
+    "@shramovmain/Java Core"
   ]
 }
