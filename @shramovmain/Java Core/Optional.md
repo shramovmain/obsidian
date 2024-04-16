@@ -13,3 +13,4 @@
 - **orElseThrow(Exception)** - выбрасывает исключение, если null (NoSushElementException по умолчанию)
 - **filter(condition)** - возвращает значение, если condition = true, иначе пустой Optional
 - **get()** - возвращает значение, если оно есть, иначе выбрасывает исключение NoSushElementException
+- **map(mapper)** - применяет маппер для преобразования значения внутри Optional, если не null, иначе вернёт пустой Optional
