@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@shramovmain/Hibernate/Устройство Hibernate.md",
+                "file": "@shramovmain/Hibernate/JPQL и HQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@shramovmain/Hibernate/Устройство Hibernate.md",
+                "file": "@shramovmain/Hibernate/JPQL и HQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@shramovmain/Hibernate/Устройство Hibernate.md",
+                "file": "@shramovmain/Hibernate/JPQL и HQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@shramovmain/Hibernate/Устройство Hibernate.md"
+                "file": "@shramovmain/Hibernate/JPQL и HQL.md"
               }
             }
           }
@@ -148,16 +148,26 @@
   },
   "active": "eb7784da6111d0c8",
   "lastOpenFiles": [
-    "@shramovmain/Spring/Spring Bean/Bean LifeCycle Table.canvas",
+    "@shramovmain/Hibernate/FetchType.md",
     "@shramovmain/Hibernate/Устройство Hibernate.md",
+    "@shramovmain/Hibernate/JPQL и HQL.md",
+    "@shramovmain/Hibernate/@GeneratedValue.md",
+    "@shramovmain/Hibernate/Уровни кэширования Hibernate.md",
+    "@shramovmain/cache/java-collections.png",
+    "@shramovmain/Java Core/Collection Framework.md",
+    "@shramovmain/JVM JRE JDK/JVM/Runtime Darta Area.md",
+    "@shramovmain/JVM JRE JDK/JVM/Устройство JVM.md",
+    "@shramovmain/JVM JRE JDK/JVM/ClassLoader.md",
+    "@shramovmain/JVM JRE JDK/JDK JRE JVM.md",
+    "@shramovmain/Hibernate/N + 1.md",
+    "@shramovmain/DBMS/Блокировки (Оптимистичная и Пессимистичная).md",
+    "@shramovmain/DBMS/Отношения таблиц БД.md",
+    "@shramovmain/Spring/Spring Bean/Bean LifeCycle Table.canvas",
     "@shramovmain/Spring/Spring Boot/Преимущества Spring Boot.md",
     "@shramovmain/Java Core/Optional.md",
     "@shramovmain/Hibernate",
     "@shramovmain/Concurrency/Жизненный цикл потока.md",
-    "@shramovmain/Java Core/Collection Framework.md",
-    "@shramovmain/cache/java-collections.png",
     "@shramovmain/Spring/Spring Boot/Spring Boot.md",
-    "@shramovmain/JVM JRE JDK/JDK JRE JVM.md",
     "@shramovmain/Spring/Bean Conditional/Устройство Bean Conditional.md",
     "@shramovmain/Spring/Spring Cache/Устройство Spring Cache.md",
     "@shramovmain/DBMS/Уровни изоляции транзакций.md",
@@ -167,15 +177,6 @@
     "@shramovmain/Concurrency/Интерфейс Lock.md",
     "@shramovmain/Concurrency/Класс Thread.md",
     "@shramovmain/Concurrency/Отличия процесса от потока.md",
-    "@shramovmain/JVM JRE JDK/JVM/Garbage Collector.md",
-    "@shramovmain/JVM JRE JDK/JVM/Execution Engine.md",
-    "@shramovmain/JVM JRE JDK/JVM/Runtime Darta Area.md",
-    "@shramovmain/JVM JRE JDK/JVM/ClassLoader.md",
-    "@shramovmain/DBMS/Блокировки (Оптимистичная и Пессимистичная).md",
-    "@shramovmain/Spring/Spring AOP/Устройство Spring AOP.md",
-    "@shramovmain/Spring/Spring Bean/Bean LifeCycle.md",
-    "@shramovmain/Spring/Spring Bean/@Scope (Область видимости бинов).md",
-    "@shramovmain/DBMS/Mongo DB/Устройство MongoDB.md",
     "@shramovmain/DBMS/Mongo DB/Структура хранения Mongo.canvas",
     "@shramovmain/Concurrency",
     "@shramovmain/Spring/Spring Bean",
