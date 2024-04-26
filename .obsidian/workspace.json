@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@shramovmain/Base/ELK.md",
+                "file": "@shramovmain/Projects/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@shramovmain/Base/ELK.md",
+                "file": "@shramovmain/Projects/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@shramovmain/Base/ELK.md",
+                "file": "@shramovmain/Projects/2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@shramovmain/Base/ELK.md"
+                "file": "@shramovmain/Projects/2.md"
               }
             }
           }
@@ -170,14 +170,15 @@
   },
   "active": "eb7784da6111d0c8",
   "lastOpenFiles": [
-    "@shramovmain/Base/Rest API.md",
-    "@shramovmain/Base/Методологии разработки.md",
-    "@shramovmain/Base/ELK.md",
-    "@shramovmain/Doker/KUBERNETES (K8S).md",
-    "@shramovmain/Doker/CI CD.md",
     "@shramovmain/Projects/1.md",
-    "@shramovmain/Base",
+    "@shramovmain/Doker/KUBERNETES (K8S).md",
     "@shramovmain/Projects/2.md",
+    "@shramovmain/Projects/3.md",
+    "@shramovmain/Base/ELK.md",
+    "@shramovmain/Base/Методологии разработки.md",
+    "@shramovmain/Base/Rest API.md",
+    "@shramovmain/Doker/CI CD.md",
+    "@shramovmain/Base",
     "@shramovmain/cache/CI_CD.png",
     "@shramovmain/Doker/Устройство.md",
     "@shramovmain/Microservices/Взаимосвязи между микросервисами.md",
@@ -206,7 +207,6 @@
     "@shramovmain/JVM JRE JDK/JVM/Устройство JVM.md",
     "@shramovmain/JVM JRE JDK/JVM/ClassLoader.md",
     "@shramovmain/JVM JRE JDK/JDK JRE JVM.md",
-    "@shramovmain/DBMS/Блокировки (Оптимистичная и Пессимистичная).md",
     "@shramovmain/Spring/Spring Bean/Bean LifeCycle Table.canvas",
     "@shramovmain/Hibernate",
     "@shramovmain/DBMS/Mongo DB/Структура хранения Mongo.canvas",
