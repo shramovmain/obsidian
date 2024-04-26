@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@shramovmain/Doker/CI CD.md",
+                "file": "@shramovmain/Base/ELK.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@shramovmain/Doker/CI CD.md",
+                "file": "@shramovmain/Base/ELK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@shramovmain/Doker/CI CD.md",
+                "file": "@shramovmain/Base/ELK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@shramovmain/Doker/CI CD.md"
+                "file": "@shramovmain/Base/ELK.md"
               }
             }
           }
@@ -170,16 +170,20 @@
   },
   "active": "eb7784da6111d0c8",
   "lastOpenFiles": [
-    "CI_CD.png",
-    "@shramovmain/Doker/Устройство.md",
+    "@shramovmain/Base/Rest API.md",
+    "@shramovmain/Base/Методологии разработки.md",
+    "@shramovmain/Base/ELK.md",
+    "@shramovmain/Doker/KUBERNETES (K8S).md",
     "@shramovmain/Doker/CI CD.md",
+    "@shramovmain/Projects/1.md",
+    "@shramovmain/Base",
+    "@shramovmain/Projects/2.md",
+    "@shramovmain/cache/CI_CD.png",
+    "@shramovmain/Doker/Устройство.md",
     "@shramovmain/Microservices/Взаимосвязи между микросервисами.md",
     "@shramovmain/JVM JRE JDK/Паттерны.md",
     "@shramovmain/cache/Pasted image 20240424112040.png",
     "@shramovmain/cache/Pasted image 20240424112205.png",
-    "@shramovmain/Projects/2.md",
-    "Untitled",
-    "Base.md",
     "@shramovmain/Projects",
     "@shramovmain/cache/MicroservicePatternLanguage.jpg",
     "@shramovmain/cache/kafka-1-2083805.png",
@@ -203,10 +207,7 @@
     "@shramovmain/JVM JRE JDK/JVM/ClassLoader.md",
     "@shramovmain/JVM JRE JDK/JDK JRE JVM.md",
     "@shramovmain/DBMS/Блокировки (Оптимистичная и Пессимистичная).md",
-    "@shramovmain/DBMS/Отношения таблиц БД.md",
     "@shramovmain/Spring/Spring Bean/Bean LifeCycle Table.canvas",
-    "@shramovmain/Spring/Spring Boot/Преимущества Spring Boot.md",
-    "@shramovmain/Java Core/Optional.md",
     "@shramovmain/Hibernate",
     "@shramovmain/DBMS/Mongo DB/Структура хранения Mongo.canvas",
     "@shramovmain/Concurrency",
