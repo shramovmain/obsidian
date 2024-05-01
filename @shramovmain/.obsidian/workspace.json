@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md",
+                "file": "Microservices/Паттерны.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md",
+                "file": "Microservices/Паттерны.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md",
+                "file": "Microservices/Паттерны.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md"
+                "file": "Microservices/Паттерны.md"
               }
             }
           }
@@ -148,6 +148,25 @@
   },
   "active": "e53268b30480fecd",
   "lastOpenFiles": [
+    "cache/MicroservicePatternLanguage.jpg",
+    "Microservices/Паттерны.md",
+    "ORM/Hibernate/Устройство Hibernate.md",
+    "ORM/Hibernate/JPQL и HQL.md",
+    "ORM/Hibernate/N + 1.md",
+    "ORM/Hibernate/FetchType.md",
+    "ORM/Hibernate/@GeneratedValue.md",
+    "Java Core/Функциональные интерфейсы.md",
+    "Java Core/Stream.md",
+    "Java Core/Optional.md",
+    "Doker/Устройство Docker.md",
+    "Doker/KUBERNETES (K8S).md",
+    "Doker/CI CD.md",
+    "Microservices/Взаимосвязи между микросервисами.md",
+    "Microservices/Kafka/Устройство Kafka.md",
+    "JVM JRE JDK/JVM/Runtime Darta Area.md",
+    "JVM JRE JDK/JVM/Устройство JVM.md",
+    "JVM JRE JDK/JVM/Garbage Collector.md",
+    "Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md",
     "Concurrency/Способы синхронизации потоков.md",
     "JVM JRE JDK/cache/Pasted image 20240413210452.png",
     "JVM JRE JDK/JDK/Устройство JDK.md",
@@ -157,21 +176,9 @@
     "Spring/Spring Bean/Bean LifeCycle Table.canvas",
     "Spring/Spring Bean/Bean LifeCycle.md",
     "Spring/Spring Bean/@Scope (Область видимости бинов).md",
-    "Spring/Spring Boot/Custom Starter.md",
-    "Spring/Spring Boot/Преимущества Spring Boot.md",
-    "Spring/Spring Boot/Spring Boot.md",
-    "JVM JRE JDK/JVM/ClassLoader.md",
-    "JVM JRE JDK/JVM/Устройство JVM.md",
-    "Java Core/Optional.md",
-    "DBMS/Уровни изоляции транзакций.md",
-    "DBMS/Виды NoSQL-баз данных.md",
-    "DBMS/Блокировки (Оптимистичная и Пессимистичная).md",
-    "DBMS/Mongo DB/Устройство MongoDB.md",
-    "Spring/Spring AOP/Устройство Spring AOP.md",
     "DBMS/Mongo DB",
     "DBMS",
     "Без названия",
-    "Spring/Bean LifeCycle.md",
     "Spring/Bean LifeCycle Table.canvas",
     "Java Core",
     "ORM",
@@ -180,13 +187,6 @@
     "Spring/Spring Cache",
     "Spring/Spring Framwork LifiCycle",
     "Spring/Spring Boot",
-    "JVM JRE JDK/JRE/Устройство JRE.md",
-    "JVM JRE JDK/Без названия.md",
-    "JVM JRE JDK/JVM/Execution Engine.md",
-    "JVM JRE JDK/JVM/Runtime Darta Area.md",
-    "JVM JRE JDK/JVM/Garbage Collector.md",
-    "JVM JRE JDK/JVM/~$тройство JVM.md",
-    "JVM JRE JDK/Без названия.canvas",
-    "Welcome.md"
+    "JVM JRE JDK/Без названия.canvas"
   ]
 }
