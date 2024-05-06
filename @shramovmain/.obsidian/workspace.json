@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microservices/Паттерны.md",
+                "file": "Проекты/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microservices/Паттерны.md",
+                "file": "Проекты/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microservices/Паттерны.md",
+                "file": "Проекты/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microservices/Паттерны.md"
+                "file": "Проекты/1.md"
               }
             }
           }
@@ -138,50 +138,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "e53268b30480fecd",
   "lastOpenFiles": [
+    "Проекты/2.md",
+    "Проекты/3.md",
+    "Проекты/1.md",
+    "JVM/JDK JRE JVM.md",
+    "Микросервисы/Взаимосвязи между микросервисами.md",
+    "JVM JRE JDK/JDK/Устройство JDK.md",
+    "JVM JRE JDK/JRE/Устройство JRE.md",
+    "Микросервисы/gRPC.md",
+    "Проекты/ХАРДЫ.md",
+    "Микросервисы/Kafka.md",
+    "Concurrency/Happens-before.md",
+    "Concurrency/Future, CompletableFuture.md",
+    "Java Core/Сложность операций.md",
+    "Микросервисы/RabbitMQ.md",
+    "Микросервисы/Устройство Микросервисов.md",
+    "Spring/Spring Cache/Устройство Spring Cache.md",
+    "Spring/Spring AOP/Устройство Spring AOP.md",
+    "Spring/Spring Context/Spring Context Life Cycle.md",
+    "Spring/Spring Boot/Custom Starter.md",
+    "Микросервисы/Паттерны.md",
     "DBMS/Уровни изоляции транзакций.md",
     "cache/Pasted image 20240504182540.png",
     "cache/Pasted image 20240424112040.png",
     "cache/MicroservicePatternLanguage.jpg",
     "cache/Pasted image 20240504183247.png",
-    "Spring/Spring Boot/Custom Starter.md",
     "cache/Pasted image 20240504183241.png",
     "cache/Pasted image 20240504183008.png",
-    "Microservices/Паттерны.md",
-    "Проекты/2.md",
-    "Проекты/3.md",
-    "Проекты/1.md",
     "Проекты",
     "ORM/Hibernate/Устройство Hibernate.md",
     "ORM/Hibernate/JPQL и HQL.md",
     "ORM/Hibernate/N + 1.md",
     "ORM/Hibernate/FetchType.md",
     "ORM/Hibernate/@GeneratedValue.md",
-    "Java Core/Функциональные интерфейсы.md",
-    "Java Core/Stream.md",
-    "Java Core/Optional.md",
-    "Doker/Устройство Docker.md",
-    "Doker/KUBERNETES (K8S).md",
-    "Doker/CI CD.md",
-    "Microservices/Взаимосвязи между микросервисами.md",
-    "Microservices/Kafka/Устройство Kafka.md",
-    "JVM JRE JDK/JVM/Runtime Darta Area.md",
-    "JVM JRE JDK/JVM/Устройство JVM.md",
-    "JVM JRE JDK/JVM/Garbage Collector.md",
-    "Concurrency/Проблема конкурентного доступа (гонка, взаимная блокировка).md",
-    "Concurrency/Способы синхронизации потоков.md",
     "JVM JRE JDK/cache/Pasted image 20240413210452.png",
-    "JVM JRE JDK/JDK/Устройство JDK.md",
-    "Spring/Bean Conditional/Устройство Bean Conditional.md",
     "Spring/Spring Bean/Bean LifeCycle Table.canvas",
     "DBMS/Mongo DB",
     "DBMS",
