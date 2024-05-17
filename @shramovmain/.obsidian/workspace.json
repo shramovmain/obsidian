@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Core/Optional.md",
+                "file": "DBMS/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ci",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "733db609b8c92aea",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Core/Optional.md",
+                "file": "DBMS/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Core/Optional.md",
+                "file": "DBMS/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Core/Optional.md"
+                "file": "DBMS/SQL.md"
               }
             }
           }
@@ -158,14 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e53268b30480fecd",
+  "active": "83ab5458ac4a606c",
   "lastOpenFiles": [
-    "DBMS/Блокировки (Оптимистичная и Пессимистичная).md",
     "DBMS/ACID.md",
-    "DBMS/Уровни изоляции транзакций.md",
+    "DBMS/SQL.md",
     "Spring/Spring AOP/Устройство Spring AOP.md",
-    "Spring/Spring Bean/Bean LifeCycle Table.canvas",
+    "Spring/Bean Conditional/Устройство Bean Conditional.md",
+    "Spring/Untitled.md",
+    "JVM/ClassLoader.md",
     "Spring/Spring Bean/@Scope (Область видимости бинов).md",
+    "Base/Методологии разработки.md",
+    "Java Core/Optional.md",
+    "DBMS/Блокировки (Оптимистичная и Пессимистичная).md",
+    "DBMS/Уровни изоляции транзакций.md",
+    "Spring/Spring Bean/Bean LifeCycle Table.canvas",
     "Java Core/Stream.md",
     "Java Core/Collection Framework.md",
     "Java Core/Функциональные интерфейсы.md",
@@ -181,12 +188,6 @@
     "Микросервисы/Взаимосвязи между микросервисами.md",
     "JVM JRE JDK/JDK/Устройство JDK.md",
     "JVM JRE JDK/JRE/Устройство JRE.md",
-    "Микросервисы/gRPC.md",
-    "Проекты/ХАРДЫ.md",
-    "Микросервисы/Kafka.md",
-    "Concurrency/Happens-before.md",
-    "Concurrency/Future, CompletableFuture.md",
-    "Микросервисы/RabbitMQ.md",
     "cache/Pasted image 20240504182540.png",
     "cache/Pasted image 20240424112040.png",
     "cache/MicroservicePatternLanguage.jpg",

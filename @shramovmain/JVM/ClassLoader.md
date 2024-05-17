@@ -4,9 +4,12 @@
 Загружает системные классы из стандартных библиотек Java
 java.base/
 (java.lang, java util, java.io, java.net и др.)
+*<JAVA_HOME>/jre/lib*
 
 **Extension ClassLoader**
 Загружает классы из расширений Java (JRE Extension)
+*<JAVA_HOME>/jre/lib/ext*
+*java.ext.dirs*
 
 **Application ClassLoader**
 Загружает пользовательские классы из CLASSPATH
