@@ -11,19 +11,11 @@
             "id": "e53268b30480fecd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "cache/46b3aeb417cf4fb4ba271b4c66b52436.gif"
-              }
-            }
-          },
-          {
-            "id": "cff6a410a20ea2f0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "cache/947ef3f47ff843a099059006b30ea54d.gif"
+                "file": "DBMS/SQL.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "мм",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 265.5
   },
   "right": {
     "id": "733db609b8c92aea",
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cache/46b3aeb417cf4fb4ba271b4c66b52436.gif",
+                "file": "DBMS/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cache/46b3aeb417cf4fb4ba271b4c66b52436.gif",
+                "file": "DBMS/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cache/46b3aeb417cf4fb4ba271b4c66b52436.gif"
+                "file": "DBMS/SQL.md"
               }
             }
           }
@@ -154,11 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83ab5458ac4a606c",
+  "active": "e53268b30480fecd",
   "lastOpenFiles": [
-    "Concurrency/Синхронизаторы (Synchronizers).md",
-    "cache/0866a4b7acdf416384d4e7372b49a34b.gif",
+    "Проекты/1.md",
+    "Проекты/ХАРДЫ.md",
     "cache/947ef3f47ff843a099059006b30ea54d.gif",
+    "Проекты/2.md",
+    "Проекты/3.md",
+    "Concurrency/Интерфейс Lock.md",
+    "Concurrency/Жизненный цикл потока.md",
+    "ORM/Hibernate/JPQL и HQL.md",
+    "ORM/Hibernate/Устройство Hibernate.md",
+    "ORM/Hibernate/Hibernate cache.md",
+    "ORM/Hibernate/@GeneratedValue.md",
+    "JVM/Устройство JVM.md",
+    "Java Core/Функциональные интерфейсы.md",
+    "Java Core/StringBuffer StringBuilder.md",
+    "Java Core/Stream.md",
+    "Java Core/Optional.md",
+    "Java Core/Collection Framework.md",
+    "Java Core/Сложность операций.md",
+    "Java Core/Принципы ООП.md",
+    "JVM/JDK JRE JVM.md",
+    "JVM/Runtime Darta Area.md",
+    "JVM/Garbage Collector.md",
+    "JVM/Execution Engine.md",
+    "JVM/ClassLoader.md",
+    "Spring/Spring AOP/Устройство Spring AOP.md",
+    "Concurrency/ExecutorService.md",
+    "cache/46b3aeb417cf4fb4ba271b4c66b52436.gif",
+    "cache/0866a4b7acdf416384d4e7372b49a34b.gif",
     "cache/1_BlTVuYs_yzh9Dh3gZaAZow.webp",
     "cache/MicroservicePatternLanguage.jpg",
     "cache/9da48f85b5874362bc2279f181613c0e.gif",
@@ -166,32 +183,7 @@
     "cache/Pasted image 20240504183241.png",
     "cache/Pasted image 20240504183247.png",
     "cache/947ef3f47ff843a099059006b30ea54d 1.gif",
-    "cache/947ef3f47ff843a099059006b30ea54d 2.gif",
-    "DBMS/Индексы.md",
-    "DBMS/Mongo DB/Устройство MongoDB.md",
     "DBMS/Mongo DB/Структура хранения Mongo.canvas",
-    "DBMS/Блокировки (Оптимистичная и Пессимистичная).md",
-    "DBMS/Виды NoSQL-баз данных.md",
-    "DBMS/Уровни изоляции транзакций.md",
-    "DBMS/Отношения таблиц БД.md",
-    "DBMS/ACID.md",
-    "DBMS/SQL.md",
-    "DBMS/Нормализация.md",
-    "Java Core/Функциональные интерфейсы.md",
-    "Java Core/Сложность операций.md",
-    "Java Core/Принципы ООП.md",
-    "Java Core/Stream.md",
-    "Микросервисы/Паттерны.md",
-    "Микросервисы/ELK.md",
-    "Проекты/1.md",
-    "Spring/Spring AOP/Устройство Spring AOP.md",
-    "Микросервисы/Взаимосвязи между микросервисами.md",
-    "Spring/Spring Bean/@Scope (Область видимости бинов).md",
-    "Spring/Bean Conditional/Устройство Bean Conditional.md",
-    "Spring/Untitled.md",
-    "JVM/ClassLoader.md",
-    "Base/Методологии разработки.md",
-    "Java Core/Optional.md",
     "Spring/Spring Bean/Bean LifeCycle Table.canvas",
     "Проекты",
     "DBMS/Mongo DB",
