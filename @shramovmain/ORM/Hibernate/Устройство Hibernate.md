@@ -30,9 +30,10 @@
 	Набор Entity, управляемый Entity manager
 
 **Связи между сущностями:**
-	One-To-One
-	One-To-Many
-	Many-To-Many
+	One-To-One (FetchType.Eager)
+	One-To-Many (FetchType.Lazy)
+	Many-To-Many (FetchType.Lazy)
+	Many-To-One (FetchType.Eager)
 	Hibernate позволяет считать настройки этих связей через **аннотации** или через **XML**
 
 **Flash**

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e53268b30480fecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBMS/ACID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c5166eb3e1966f1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Core/Сложность операций.md",
+                "file": "ORM/Hibernate/N + 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "entityGra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/ACID.md",
+                "file": "ORM/Hibernate/N + 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/ACID.md",
+                "file": "ORM/Hibernate/N + 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/ACID.md"
+                "file": "ORM/Hibernate/N + 1.md"
               }
             }
           }
@@ -170,12 +159,37 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e53268b30480fecd",
+  "active": "c5166eb3e1966f1d",
   "lastOpenFiles": [
     "ORM/Hibernate/Устройство Hibernate.md",
-    "ORM/Hibernate/@GeneratedValue.md",
+    "Spring/Spring AOP/SGLib, Dynamic proxy.md",
     "Spring/Spring AOP/Устройство Spring AOP.md",
+    "Java Core/Stream.md",
+    "Spring/Spring Bean/Двухфазный конструктор.md",
+    "Spring/Spring Bean/Кастомный @Scope.md",
+    "Pasted image 20240603161707.png",
+    "Java Core/Сложность операций.md",
+    "Spring/Spring Boot/Преимущества Spring Boot.md",
     "Spring/Spring Boot/Custom Starter.md",
+    "Spring/Автоконфигурация (Auticonfigure).md",
+    "Spring/Устройство Bean Factory.md",
+    "Spring/Spring Framework.md",
+    "Spring/Untitled.md",
+    "cache/Pasted image 20240603155114.png",
+    "cache/Pasted image 20240603155035.png",
+    "cache/Pasted image 20240603154158.png",
+    "cache/Pasted image 20240603154148.png",
+    "cache/Pasted image 20240603154101.png",
+    "cache/Pasted image 20240603154008.png",
+    "cache/Pasted image 20240603153900.png",
+    "cache/Pasted image 20240603153714.png",
+    "cache/Pasted image 20240603153646.png",
+    "Concurrency/ThreadLocal.md",
+    "Без названия.canvas",
+    "2024-05-27.md",
+    "Base (это база)/Сложность алгоритмов.md",
+    "DBMS/ACID.md",
+    "ORM/Hibernate/@GeneratedValue.md",
     "Spring/Spring Bean/Bean LifeCycle Table.canvas",
     "Spring/Spring Bean/Bean LifeCycle.md",
     "Spring/Spring Bean/@Scope (Область видимости бинов).md",
@@ -183,33 +197,8 @@
     "ORM/Hibernate/N + 1.md",
     "Concurrency/Потокобезопасные коллекции.md",
     "Java Core/Collection Framework.md",
-    "Java Core/Сложность операций.md",
     "Java Core/Функциональные интерфейсы.md",
     "Проекты/ХАРДЫ.md",
-    "Проекты/2.md",
-    "DBMS/SQL.md",
-    "Проекты/3.md",
-    "2024-05-27.md",
-    "Без названия.canvas",
-    "Base (это база)/Code Review (код ревью).md",
-    "Base (это база)/Rest API.md",
-    "cache/947ef3f47ff843a099059006b30ea54d.gif",
-    "Concurrency/Интерфейс Lock.md",
-    "Concurrency/Жизненный цикл потока.md",
-    "ORM/Hibernate/JPQL и HQL.md",
-    "ORM/Hibernate/Hibernate cache.md",
-    "JVM/Устройство JVM.md",
-    "Java Core/StringBuffer StringBuilder.md",
-    "Java Core/Stream.md",
-    "cache/46b3aeb417cf4fb4ba271b4c66b52436.gif",
-    "cache/0866a4b7acdf416384d4e7372b49a34b.gif",
-    "cache/1_BlTVuYs_yzh9Dh3gZaAZow.webp",
-    "cache/MicroservicePatternLanguage.jpg",
-    "cache/9da48f85b5874362bc2279f181613c0e.gif",
-    "cache/Pasted image 20240504183008.png",
-    "cache/Pasted image 20240504183241.png",
-    "cache/Pasted image 20240504183247.png",
-    "cache/947ef3f47ff843a099059006b30ea54d 1.gif",
     "DBMS/Mongo DB/Структура хранения Mongo.canvas",
     "Проекты",
     "DBMS/Mongo DB",
